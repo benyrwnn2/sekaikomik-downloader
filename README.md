@@ -1,2 +1,5 @@
-# sekaikomik-downloader
-makes it easy to download and search for comics on sekaikomik
+> Install Dependensasi
+> npm install express axios cheerio pdfkit < br />
+> Jalankan Server
+> node server.js
+> [Here](wa.me/6288286421519) <br />
