@@ -20,5 +20,5 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek di kompute
 ### 1. Clone Repository
 Clone repository ini ke komputer lokalmu menggunakan Git:
 ```bash
-git clone https://github.com/<username>/komik-downloader.git
-cd komik-downloader
+git clone https://github.com/benyrwnn2/sekaikomik-downloader.git
+cd sekaikomik-downloader
